@@ -1,6 +1,6 @@
 # Dev-In-Res
 
-1. [Submit your EOA account address](https://docs.google.com/forms/d/12ncT_i_4DuLokDk6Z0BKZMDrOH8uKJLkqjCgOJkwURM/edit?usp=sharing).
+1. [Submit your EOA account address](https://forms.gle/65884NothioGu7Cd7).
 2. Increase your score by yourself! (You can check your score [here](https://rinkeby.etherscan.io/address/0xe0B6b22b343CC64329ee70CD957bD5927BA264aD#readContract))
 
 ## Deployed contracts
