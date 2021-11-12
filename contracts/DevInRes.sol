@@ -12,6 +12,10 @@ contract DevInRes is Proxy, Ownable {
         store.questContracts[sig] = questContract;
     }
 
+    function score() public {
+        Quest.solve(DevInRes(payable(address(0))).score.selector, msg.sender);
+    }
+
     function hasSolved(bytes4 sig, address solver) public view returns (bool) {
         Quest.Store storage store = Quest.store();
         return store.solved[sig][solver];
