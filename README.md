@@ -1,14 +1,14 @@
 # Dev-In-Res
 
 1. [Submit your EOA account address](https://forms.gle/65884NothioGu7Cd7).
-2. Increase your score by yourself! (You can check your score [here](https://goerli.etherscan.io/address/0x4Dcd8dd6FD4Eb20F5A1AC90e347Fc92d149B3C0C#readContract))
+2. Increase your score by yourself! (You can check your score [here](https://sepolia.etherscan.io/address/0x192B50D5297Bc0a255eaa745BCff15f4E3581Fae#readContract))
 
 ## Deployed contracts
 
-- DevInRes.sol: https://goerli.etherscan.io/address/0x4Dcd8dd6FD4Eb20F5A1AC90e347Fc92d149B3C0C#code
-- Quest1: https://goerli.etherscan.io/address/0x9C4109Df959B55c2C0b601676575e739eec7445F#code
-- Quest2: https://goerli.etherscan.io/address/0xD8511A92C7603F3809759199a49b44dB94B37A55#code
-- Quest3: https://goerli.etherscan.io/address/0x0CB02Ac773803F5D83ADBb10EE20B2000A50abBB#code
+- DevInRes.sol: https://sepolia.etherscan.io/address/0x192B50D5297Bc0a255eaa745BCff15f4E3581Fae#code
+- Quest1: https://sepolia.etherscan.io/address/0x0de9aD7BD94277b1c376C41eA5366CA682004773#code
+- Quest2: https://sepolia.etherscan.io/address/0xa96D76Fbfc0A5018Bb6e948aB475C3dAf1610175#code
+- Quest3: https://sepolia.etherscan.io/address/0x9A0C10B85B74e2cdafF3A062b08b9137b6ce223d#code
 
 ## How to score?
 
